@@ -1,14 +1,14 @@
-💬 Projeto: ChatNode
+## 💬 Projeto: ChatNode
 O ChatNode é um projeto de chat em tempo real, desenvolvido com o objetivo de explorar conceitos de comunicação em tempo real utilizando WebSocket. Com uma interface simples e funcional, este projeto permite que múltiplos usuários entrem em uma sala de bate-papo, enviem mensagens instantâneas e visualizem atualizações em tempo real sobre os usuários conectados.
 
-🛠️ Funcionalidades
+## 🛠️ Funcionalidades
 Login Simples: Os usuários podem inserir seu nome para entrar no chat.
 Mensagens em Tempo Real: As mensagens são exibidas instantaneamente para todos os participantes.
 Lista de Usuários: Atualizações dinâmicas mostram quem está online na sala.
 Notificações de Status: Avisos quando um usuário entra ou sai do chat.
 Reconexão Automática: Caso ocorra uma desconexão, o sistema tenta se reconectar automaticamente.
 
-🖥️ Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
 Front-end:
 HTML5
 CSS3
@@ -19,7 +19,7 @@ Express.js
 Socket.IO
 Ambiente de Servidor: HTTP integrado ao Node.js
 
-📥 Como Instalar e Executar
+## 📥 Como Instalar e Executar
 Clone o Repositório:
 
 ```bash
@@ -54,7 +54,7 @@ Acesse no Navegador:
 Abra o navegador e acesse http://localhost:3000 para começar a usar o chat.
 ```
 
-🌐 Link do Repositório
+## 🌐 Link do Repositório
 Confira o código completo no GitHub:https://github.com/tscouto/chatnode.git
 
 ChatNode Repository
